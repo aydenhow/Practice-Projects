@@ -1,4 +1,5 @@
 # countdown.py #
+# Countdown timer program prompts for countdown time and counts per second until end.
 
 from time import sleep
 
