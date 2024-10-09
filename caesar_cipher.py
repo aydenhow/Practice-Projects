@@ -1,4 +1,5 @@
 # caesar_cipher.py #
+# Program to encode and decode using Caesar cipher. Also has code to decode for unknown shift value.
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
