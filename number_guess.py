@@ -1,4 +1,5 @@
 # number_guess.py #
+# Guess the number game by simulating two rolls of dice. 
 
 from random import randint
 from time import sleep
