@@ -1,4 +1,6 @@
 # bank_account.py #
+# Based on Codecademy project.
+# Creates a BankAccount class with methods to get balance, withdraw and deposit to update balance.
 
 class BankAccount:
     balance = 0
