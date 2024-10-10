@@ -1,4 +1,6 @@
 # simple_calculator.py #
+# Based on Codecademy project.
+# Takes a bit string and performs basic operations from the bit string code phrases.
 
 class UltraSuperCalculator:
     def __init__(self, name):
