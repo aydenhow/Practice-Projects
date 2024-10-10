@@ -1,4 +1,4 @@
 # Practice-Projects
 
-Author: Ayden Howarth.
+Author: Ayden Howarth.\n
 Various simple projects to practice scripting in Python.
