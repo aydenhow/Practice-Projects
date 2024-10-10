@@ -1,4 +1,5 @@
 # scissors_paper_rock.py #
+# Scissors, paper, rock game that runs multiple rounds until user exits.
 
 from random import randint
 from time import sleep
