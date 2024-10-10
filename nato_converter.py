@@ -1,4 +1,5 @@
 # nato_converter.py #
+# Program converts to and from NATO phonetic alphabet or Morse code.
 
 nato_alphabet = {"A":"Alpha","B":"Beta","C":"Charlie","D":"Delta","E":"Echo","F":"Foxtrot","G":"Golf","H":"Hotel",
             "I":"India","J":"Juliet","K":"Kilo","L":"Lima","M":"Mike","N":"November","O":"Oscar","P":"Papa",
